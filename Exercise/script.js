@@ -10,9 +10,6 @@ function say_hello() {
     console.log("ammy")
     console.log("Nattamon Taengkaew")
     console.log("aommy")
-    console.log("Nattamon Taengkaew")
-    console.log("aommy")
-    console.log("aommy")
 
 
     

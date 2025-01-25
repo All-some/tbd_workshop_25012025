@@ -6,10 +6,12 @@ def main():
 
     num1 = int(input("Enter your number 1:"))
     num2 = int(input("Enter your number 2:"))
-    add(num1,num2)
     
+<<<<<<< HEAD
     diff(num1,num2)
 
+=======
+>>>>>>> 2579022efc57c7c764aeaac229f95e52fc25e6c0
     # Member A call method add() at line: 8
     # Member B call method diff() at line: 8
     # Member C call method mul() at line: 8

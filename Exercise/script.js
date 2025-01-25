@@ -14,6 +14,11 @@ function say_hello() {
     console.log("Nattamon Taengkaew")
     console.log("Nattamon Taengkaew")
     
+    console.log("What is your name?")
+    console.log("What is your name?")
+    console.log("What is your name?")
+
+
     
 }
 

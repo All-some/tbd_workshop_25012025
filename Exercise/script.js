@@ -12,7 +12,9 @@ function say_hello() {
     console.log("aommy")
     console.log("What is your name?")
     console.log("What is your name?")
-    console.log("What is your name?")
+    console.log("aommy")
+    console.log("aommy")
+    console.log("aommy")
 
 
     
